@@ -1,2 +1,0 @@
-# starterHTML
-bootstrap + materialize 
