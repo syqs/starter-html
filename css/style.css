@@ -1,7 +1,7 @@
 body {
   padding-top: 60px;
   font-weight: 600;
-  font-family: "Josefin Sans","Ubuntu", Helvetica, Arial, sans-serif;
+  font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
   font-size:16px;
 
 }
@@ -40,6 +40,7 @@ div.right img {
   margin-bottom: 30px;
 }
 
+/*http://www.materialpalette.com*/
 .navbar.dark-primary-color,
 .dark-primary-color    { background: #689F38; }
 .default-primary-color { background: #8BC34A; }
